@@ -24,4 +24,4 @@
 
 ## 📄 License
 
-[MIT License](https://github.com/Chocolate1999/chodocs/blob/main/LICENSE) © 2019-PRESENT [tianRYZ](https://github.com/tianRYZ)
+[MIT License](https://github.com/tianRYZ/vite-krone/blob/main/LICENSE) © 2019-PRESENT [tianRYZ](https://github.com/tianRYZ)
